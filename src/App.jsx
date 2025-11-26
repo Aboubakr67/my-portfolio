@@ -262,7 +262,7 @@ function App() {
     submitButton.innerHTML = "<span>Envoi en cours...</span>";
 
     try {
-      const response = await fetch("http://localhost:3000/send-email", {
+      const response = await fetch("https://email-serveur.akrzen.cloud/send-email", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
