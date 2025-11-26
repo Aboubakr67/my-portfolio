@@ -177,7 +177,7 @@ function App() {
       period: "01/2023 - 03/2023",
       description:
         "Conception d'une application mobile avec Flutter pour la gestion des tâches hebdomadaires des employés, utilisant Symfony comme backend pour les API et la base de données.",
-      logo: "public/images/sevilog.jpeg",
+      logo: "/images/sevilog.jpeg",
       color: "from-purple-500 to-pink-500",
       typeEmploi: "Stage",
     },
@@ -187,7 +187,7 @@ function App() {
       period: "05/2022 - 07/2022",
       description:
         "Développement d'un site web de gestion des tâches hebdomadaires pour les employés de l'entreprise, en utilisant le framework Symfony.",
-      logo: "public/images/sevilog.jpeg",
+      logo: "/images/sevilog.jpeg",
       color: "from-cyan-500 to-blue-500",
       typeEmploi: "Stage",
     },
